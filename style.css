@@ -123,7 +123,13 @@ section {
 .controls .active-btn i {
   color: var(--color-white);
 }
-
+.certification {
+  display: flex;
+  justify-content: center;
+}
+.certification div {
+  padding: 30px;
+}
 .theme-btn {
   top: 5%;
   right: 3%;
